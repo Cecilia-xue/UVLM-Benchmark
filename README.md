@@ -51,8 +51,9 @@ uvlm-benchmark/
 │   └── index.md              # GitHub Pages (optional)
 └── CITATION.cff
 
+---
 ## 8. Citation
-
+## Repository Structure
 If you use UVLM in your research, please cite:
 
 ```bibtex
