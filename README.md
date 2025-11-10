@@ -50,3 +50,15 @@ uvlm-benchmark/
 ├── docs/
 │   └── index.md              # GitHub Pages (optional)
 └── CITATION.cff
+
+## 8. Citation
+
+If you use UVLM in your research, please cite:
+
+```bibtex
+@article{uvlm2025,
+  title={UVLM: Benchmarking Video-Language Model for Underwater World Understanding},
+  author={XIZHE XUE, Yangzhou, Dawei Yan, lijie tao, Junjie Li, Ying Li, Haokui Zhang, Rong Xiao },
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  year={2026}
+}
