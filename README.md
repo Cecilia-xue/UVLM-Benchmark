@@ -1,8 +1,8 @@
 # UVLM: Underwater Video-Language Benchmark 🌊
 
 [🌐 Website](https://yourname.github.io/uvlm-benchmark/) •
-[🤗 Dataset on Hugging Face](https://huggingface.co/your-org/uvlm) •
-[📄 Paper](https://arxiv.org/abs/2501.12345)
+[🤗 Dataset on Hugging Face (on going)](https://huggingface.co/your-org/uvlm) •
+[📄 Paper]([https://arxiv.org/abs/2501.12345](https://arxiv.org/pdf/2507.02373))
 
 UVLM is a benchmark for **underwater video-language understanding**. It contains **2,109 videos**, ~**0.86M frames**, **419 marine species/categories**, and **20 fine-grained tasks** covering both **biological** and **environmental** aspects of underwater scenes.
 
@@ -278,10 +278,4 @@ If you use UVLM in your research, please cite both the conference version and th
   year    = {2026}
 }
 
-@misc{xue2025uvlm,
-  title        = {UVLM: A Comprehensive Benchmark for Underwater Video-Language Understanding},
-  author       = {Xizhe Xue and Yangzhou and Dawei Yan and Lijie Tao and Junjie Li and Ying Li and Haokui Zhang and Rong Xiao},
-  howpublished = {arXiv preprint arXiv:2501.12345},
-  year         = {2025}
-}
 ```
