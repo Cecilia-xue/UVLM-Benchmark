@@ -1,8 +1,8 @@
 # UVLM: Underwater Video-Language Benchmark 🌊
 
-[🌐 Website](https://yourname.github.io/uvlm-benchmark/) •
+[🌐 Kaggle Website](https://www.kaggle.com/datasets/4e903f45893d666dca5e02cf3f3768ae8665035a874357fc44be42736f1e7994) •
 [🤗 Dataset on Hugging Face (on going)](https://huggingface.co/your-org/uvlm) •
-[📄 Paper]([https://arxiv.org/abs/2501.12345](https://arxiv.org/pdf/2507.02373))
+[📄 Paper](https://arxiv.org/pdf/2507.02373)
 
 UVLM is a benchmark for **underwater video-language understanding**. It contains **2,109 videos**, ~**0.86M frames**, **419 marine species/categories**, and **20 fine-grained tasks** covering both **biological** and **environmental** aspects of underwater scenes.
 
@@ -18,7 +18,7 @@ This repository provides:
 ## 🔔 News
 
 - 2025-11-10: Initial release of the UVLM benchmark repo.
-- 2025-11-10: Dataset published on Hugging Face: https://huggingface.co/your-org/uvlm
+- 2025-11-10: Dataset published on Kaggle: [🌐 Kaggle Website](https://www.kaggle.com/datasets/4e903f45893d666dca5e02cf3f3768ae8665035a874357fc44be42736f1e7994)
 - Coming soon: public leaderboard.
 
 ---
