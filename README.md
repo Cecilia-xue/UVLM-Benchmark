@@ -17,8 +17,8 @@ This repository provides:
 
 ## 🔔 News
 
-- 2025-11-10: Initial release of the UVLM benchmark repo.
-- 2025-11-10: Dataset published on Kaggle: [🌐 Kaggle Website](https://www.kaggle.com/datasets/4e903f45893d666dca5e02cf3f3768ae8665035a874357fc44be42736f1e7994)
+- 2025-11-11: Initial release of the UVLM benchmark repo.
+- 2025-11-11: Dataset published on Kaggle: [🌐 Kaggle Website](https://www.kaggle.com/datasets/4e903f45893d666dca5e02cf3f3768ae8665035a874357fc44be42736f1e7994)
 - Coming soon: public leaderboard.
 
 ---
