@@ -1,7 +1,7 @@
 # UVLM: Underwater Video-Language Benchmark 🌊
 
 [🌐 Kaggle Website](https://www.kaggle.com/datasets/4e903f45893d666dca5e02cf3f3768ae8665035a874357fc44be42736f1e7994) •
-[🤗 Dataset on Hugging Face (on going)](https://huggingface.co/your-org/uvlm) •
+[🤗 Dataset on Hugging Face (on going)](https://huggingface.co/datasets/ZhouYang2002/UVLM) •
 [📄 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38136)
 
 UVLM is a benchmark for **underwater video-language understanding**. It contains **2,109 videos**, ~**0.86M frames**, **419 marine species/categories**, and **20 fine-grained tasks** covering both **biological** and **environmental** aspects of underwater scenes.
