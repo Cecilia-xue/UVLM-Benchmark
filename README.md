@@ -65,7 +65,7 @@ This repository only contains examples and format descriptions.
 
 ```bash
 git lfs install
-git clone https://huggingface.co/your-org/uvlm
+git clone https://huggingface.co/datasets/ZhouYang2002/UVLM
 ```
 
 **Option B: use our script (recommended)**
